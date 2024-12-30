@@ -28,3 +28,27 @@ Kuman 7 Inch Raspberry Pi Touch Screen SC7BC IPS LCD Display HDMI Monitor 1024x6
 
 - Dimensions:
     - Width: 37mmish
+    - Height: 12mm
+
+# Panel
+- Dimensions:
+    - Width: 158mm
+    - Height: 18mm
+
+- Holes:
+    - 16mm down from top
+    - 5 away from side
+
+Notes:
+
+Make window for screen a little smaller
+Measurements might be correct.
+
+top 5mm w 6mm h
+bot 5mm w 10mm h
+
+4x4 holes
+
+move box over to otherside and make longer
+
+
